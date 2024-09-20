@@ -1,7 +1,7 @@
 <?php
 $team = [
     'kyle' => [
-        'name' => 'Penis',
+        'name' => 'Kyle',
         'role' => 'Security Analyst',
         'page' => 'detail.php?id=kyle',
         'image' => 'assets/images/kyle.png'
